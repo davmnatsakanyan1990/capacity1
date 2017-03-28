@@ -1,0 +1,687 @@
+[01-May-2015 05:35:21 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 05:35:21 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:35:21 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:35:21 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:36:03 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 05:36:03 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:36:03 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:36:03 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:37:02 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 05:37:02 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:37:02 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:37:02 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:40:14 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 05:40:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:40:14 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:40:14 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:40:40 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 05:40:40 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:40:40 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:40:40 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:42:06 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 05:42:06 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:42:06 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:42:06 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:43:03 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 05:43:03 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:43:03 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:43:03 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:47:34 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 05:47:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:47:35 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:47:35 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:49:57 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 05:49:57 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:49:57 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 05:49:57 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 05:49:57 America/Chicago] PHP Notice:  Undefined index: email in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 352
+[01-May-2015 05:49:57 America/Chicago] PHP Notice:  Undefined index: fullname in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 358
+[01-May-2015 05:49:57 America/Chicago] PHP Notice:  Undefined index: job_title in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 360
+[01-May-2015 05:49:57 America/Chicago] PHP Notice:  Undefined index: company_name in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 362
+[01-May-2015 05:49:57 America/Chicago] PHP Notice:  Undefined index: department in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 364
+[01-May-2015 05:50:53 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 05:50:53 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:50:53 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 05:50:53 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 05:53:44 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 05:53:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:53:44 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:53:44 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:57:39 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 05:57:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:57:39 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:57:39 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:58:20 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 05:58:20 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:58:20 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:58:20 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:58:30 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 05:58:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:58:30 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:58:30 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:58:33 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 05:58:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:58:33 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 05:58:33 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 05:58:33 America/Chicago] PHP Notice:  Undefined index: email in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 352
+[01-May-2015 05:58:33 America/Chicago] PHP Notice:  Undefined index: fullname in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 358
+[01-May-2015 05:58:33 America/Chicago] PHP Notice:  Undefined index: job_title in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 360
+[01-May-2015 05:58:33 America/Chicago] PHP Notice:  Undefined index: company_name in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 362
+[01-May-2015 05:58:33 America/Chicago] PHP Notice:  Undefined index: department in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 364
+[01-May-2015 05:58:48 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 05:58:48 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:58:48 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 05:58:48 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 05:58:48 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 47
+[01-May-2015 05:58:48 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 188
+[01-May-2015 05:59:33 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 05:59:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 05:59:33 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 05:59:33 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:14:01 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 06:14:01 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:14:01 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:14:01 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:20:47 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 06:20:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:20:47 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:20:47 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:20:55 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 06:20:55 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:20:55 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:20:55 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:20:58 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 06:20:58 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:20:58 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 06:20:58 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 06:20:58 America/Chicago] PHP Notice:  Undefined index: email in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 352
+[01-May-2015 06:20:58 America/Chicago] PHP Notice:  Undefined index: fullname in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 358
+[01-May-2015 06:20:58 America/Chicago] PHP Notice:  Undefined index: job_title in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 360
+[01-May-2015 06:20:58 America/Chicago] PHP Notice:  Undefined index: company_name in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 362
+[01-May-2015 06:20:58 America/Chicago] PHP Notice:  Undefined index: department in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 364
+[01-May-2015 06:21:14 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 06:21:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:21:14 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 06:21:14 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 06:21:53 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 06:21:53 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:21:53 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:21:53 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:23:47 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 06:23:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:23:47 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:23:47 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:24:07 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 06:24:07 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:24:07 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:24:07 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:24:09 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 06:24:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:24:09 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 06:24:09 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 06:24:09 America/Chicago] PHP Notice:  Undefined index: email in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 352
+[01-May-2015 06:24:09 America/Chicago] PHP Notice:  Undefined index: fullname in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 358
+[01-May-2015 06:24:09 America/Chicago] PHP Notice:  Undefined index: job_title in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 360
+[01-May-2015 06:24:09 America/Chicago] PHP Notice:  Undefined index: company_name in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 362
+[01-May-2015 06:24:09 America/Chicago] PHP Notice:  Undefined index: department in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 364
+[01-May-2015 06:24:21 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 06:24:21 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:24:21 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 06:24:21 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 06:24:21 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 47
+[01-May-2015 06:24:21 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 188
+[01-May-2015 06:24:56 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 06:24:56 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:24:56 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:24:56 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:32:50 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 06:32:50 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:32:50 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:32:50 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:32:52 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 06:32:52 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:32:52 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 06:32:52 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 06:32:52 America/Chicago] PHP Notice:  Undefined index: email in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 352
+[01-May-2015 06:32:52 America/Chicago] PHP Notice:  Undefined index: fullname in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 358
+[01-May-2015 06:32:52 America/Chicago] PHP Notice:  Undefined index: job_title in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 360
+[01-May-2015 06:32:52 America/Chicago] PHP Notice:  Undefined index: company_name in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 362
+[01-May-2015 06:32:52 America/Chicago] PHP Notice:  Undefined index: department in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 364
+[01-May-2015 06:33:22 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 06:33:22 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:33:22 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 06:33:22 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 06:34:19 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 06:34:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 06:34:19 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 06:34:19 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 07:59:19 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 07:59:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 07:59:19 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 07:59:19 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 07:59:27 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 07:59:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 07:59:27 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 07:59:27 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 07:59:30 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 07:59:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 07:59:30 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 07:59:30 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 07:59:30 America/Chicago] PHP Notice:  Undefined index: email in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 364
+[01-May-2015 07:59:30 America/Chicago] PHP Notice:  Undefined index: fullname in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 370
+[01-May-2015 07:59:30 America/Chicago] PHP Notice:  Undefined index: job_title in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 372
+[01-May-2015 07:59:30 America/Chicago] PHP Notice:  Undefined index: company_name in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 374
+[01-May-2015 07:59:30 America/Chicago] PHP Notice:  Undefined index: department in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 376
+[01-May-2015 08:00:08 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:00:08 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:00:08 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:00:08 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:00:08 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 47
+[01-May-2015 08:00:08 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 200
+[01-May-2015 08:02:16 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:02:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:02:16 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:02:16 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:04:29 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:04:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:04:29 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:04:29 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:04:35 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:04:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:04:35 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:04:35 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:04:38 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:04:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:04:38 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:04:38 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:04:38 America/Chicago] PHP Notice:  Undefined index: email in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 364
+[01-May-2015 08:04:38 America/Chicago] PHP Notice:  Undefined index: fullname in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 370
+[01-May-2015 08:04:38 America/Chicago] PHP Notice:  Undefined index: job_title in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 372
+[01-May-2015 08:04:38 America/Chicago] PHP Notice:  Undefined index: company_name in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 374
+[01-May-2015 08:04:38 America/Chicago] PHP Notice:  Undefined index: department in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 376
+[01-May-2015 08:04:59 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:04:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:04:59 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:04:59 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:04:59 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 47
+[01-May-2015 08:04:59 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 200
+[01-May-2015 08:06:02 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:06:02 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:06:02 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:06:02 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:06:15 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:06:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:06:15 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:06:15 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:06:18 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:06:18 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:06:18 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:06:18 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:06:18 America/Chicago] PHP Notice:  Undefined index: email in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 363
+[01-May-2015 08:06:18 America/Chicago] PHP Notice:  Undefined index: fullname in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 369
+[01-May-2015 08:06:18 America/Chicago] PHP Notice:  Undefined index: job_title in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 371
+[01-May-2015 08:06:18 America/Chicago] PHP Notice:  Undefined index: company_name in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 373
+[01-May-2015 08:06:18 America/Chicago] PHP Notice:  Undefined index: department in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 375
+[01-May-2015 08:06:44 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:06:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:06:44 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:06:44 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:06:44 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 47
+[01-May-2015 08:06:44 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 199
+[01-May-2015 08:07:36 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:07:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:07:36 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:07:36 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:19:30 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:19:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:19:30 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:19:30 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:20:10 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:20:10 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:20:10 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:20:10 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:20:21 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:20:21 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:20:21 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:20:21 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:20:23 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:20:23 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:20:23 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:20:23 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:20:23 America/Chicago] PHP Notice:  Undefined index: email in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 363
+[01-May-2015 08:20:23 America/Chicago] PHP Notice:  Undefined index: fullname in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 369
+[01-May-2015 08:20:23 America/Chicago] PHP Notice:  Undefined index: job_title in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 371
+[01-May-2015 08:20:23 America/Chicago] PHP Notice:  Undefined index: company_name in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 373
+[01-May-2015 08:20:23 America/Chicago] PHP Notice:  Undefined index: department in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 375
+[01-May-2015 08:21:15 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:21:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:21:15 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:21:15 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:21:15 America/Chicago] PHP Notice:  Undefined index: email in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 367
+[01-May-2015 08:21:15 America/Chicago] PHP Notice:  Undefined index: fullname in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 373
+[01-May-2015 08:21:15 America/Chicago] PHP Notice:  Undefined index: job_title in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 375
+[01-May-2015 08:21:15 America/Chicago] PHP Notice:  Undefined index: company_name in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 377
+[01-May-2015 08:21:15 America/Chicago] PHP Notice:  Undefined index: department in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 379
+[01-May-2015 08:21:40 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:21:40 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:21:40 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:21:40 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:21:40 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 47
+[01-May-2015 08:21:40 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 203
+[01-May-2015 08:22:29 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:22:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:22:29 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:22:29 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:30:34 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:30:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:30:34 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:30:34 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:31:29 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:31:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:31:29 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:31:29 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:31:35 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:31:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:31:35 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:31:35 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:31:37 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:31:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:31:37 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:31:37 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:31:37 America/Chicago] PHP Notice:  Undefined index: email in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 367
+[01-May-2015 08:31:37 America/Chicago] PHP Notice:  Undefined index: fullname in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 373
+[01-May-2015 08:31:37 America/Chicago] PHP Notice:  Undefined index: job_title in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 375
+[01-May-2015 08:31:37 America/Chicago] PHP Notice:  Undefined index: company_name in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 377
+[01-May-2015 08:31:37 America/Chicago] PHP Notice:  Undefined index: department in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 379
+[01-May-2015 08:32:04 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:32:04 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:32:04 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:32:04 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:32:04 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 47
+[01-May-2015 08:32:04 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 203
+[01-May-2015 08:32:45 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:32:45 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:32:45 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:32:45 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:33:15 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:33:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:33:15 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:33:15 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:37:59 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:37:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:37:59 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:37:59 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:39:44 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:39:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:39:44 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:39:44 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:46:38 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:46:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:46:38 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:46:38 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:46:45 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:46:45 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:46:45 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:46:45 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:46:50 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:46:50 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:46:50 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:46:50 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:46:50 America/Chicago] PHP Notice:  Undefined index: email in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 367
+[01-May-2015 08:46:50 America/Chicago] PHP Notice:  Undefined index: fullname in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 373
+[01-May-2015 08:46:50 America/Chicago] PHP Notice:  Undefined index: job_title in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 375
+[01-May-2015 08:46:50 America/Chicago] PHP Notice:  Undefined index: company_name in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 377
+[01-May-2015 08:46:50 America/Chicago] PHP Notice:  Undefined index: department in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 379
+[01-May-2015 08:47:21 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:47:21 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:47:21 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:47:21 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:48:24 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:48:24 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:48:24 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:48:24 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:49:17 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:49:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:49:17 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:49:17 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:53:38 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:53:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:53:38 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:53:38 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:54:03 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:54:03 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:54:03 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:54:03 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:54:11 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:54:11 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:54:11 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:54:11 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:54:17 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:54:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:54:17 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:54:17 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:54:17 America/Chicago] PHP Notice:  Undefined index: email in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 371
+[01-May-2015 08:54:17 America/Chicago] PHP Notice:  Undefined index: fullname in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 377
+[01-May-2015 08:54:17 America/Chicago] PHP Notice:  Undefined index: job_title in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 379
+[01-May-2015 08:54:17 America/Chicago] PHP Notice:  Undefined index: company_name in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 381
+[01-May-2015 08:54:17 America/Chicago] PHP Notice:  Undefined index: department in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 383
+[01-May-2015 08:54:46 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:54:46 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:54:46 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:54:46 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:54:46 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 47
+[01-May-2015 08:54:46 America/Chicago] PHP Notice:  Undefined offset: 1 in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 207
+[01-May-2015 08:55:40 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 08:55:40 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:55:40 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:55:40 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 08:56:19 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 10
+[01-May-2015 08:56:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 08:56:19 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 08:56:19 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_register.php on line 11
+[01-May-2015 23:23:15 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 23:23:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 23:23:15 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 23:23:15 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 23:24:20 America/Chicago] PHP Notice:  Undefined index: user_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 11
+[01-May-2015 23:24:20 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/zealousy/public_html/opensource/capacity/classes/database.class.php on line 120
+[01-May-2015 23:24:20 America/Chicago] PHP Notice:  Undefined index: r_id in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 23:24:20 America/Chicago] PHP Notice:  Undefined offset: 0 in /home2/zealousy/public_html/opensource/capacity/other/header_home.php on line 12
+[01-May-2015 23:48:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'PHP_EOL' (T_STRING) in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 83
+[01-May-2015 23:49:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'PHP_EOL' (T_STRING) in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 83
+[01-May-2015 23:49:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'PHP_EOL' (T_STRING) in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 83
+[01-May-2015 23:49:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'PHP_EOL' (T_STRING) in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 83
+[01-May-2015 23:49:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'PHP_EOL' (T_STRING) in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 83
+[01-May-2015 23:50:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'PHP_EOL' (T_STRING) in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 83
+[01-May-2015 23:50:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'PHP_EOL' (T_STRING) in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 83
+[01-May-2015 23:50:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'PHP_EOL' (T_STRING) in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 84
+[04-May-2015 05:58:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 189
+[04-May-2015 05:58:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 189
+[04-May-2015 05:58:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 189
+[04-May-2015 05:58:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 189
+[04-May-2015 05:58:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 189
+[04-May-2015 05:59:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 189
+[04-May-2015 05:59:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 189
+[04-May-2015 05:59:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 189
+[04-May-2015 06:07:10 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 192
+[04-May-2015 06:07:10 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 192
+[04-May-2015 06:11:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 192
+[04-May-2015 06:11:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 192
+[04-May-2015 06:11:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 192
+[04-May-2015 06:14:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 192
+[04-May-2015 06:18:13 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 192
+[04-May-2015 06:18:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 192
+[04-May-2015 06:21:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 192
+[04-May-2015 06:24:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 192
+[04-May-2015 06:24:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 192
+[04-May-2015 06:34:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 205
+[04-May-2015 06:34:04 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 205
+[04-May-2015 06:38:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 205
+[04-May-2015 06:38:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 205
+[04-May-2015 06:38:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 205
+[04-May-2015 06:45:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 232
+[04-May-2015 06:47:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 232
+[04-May-2015 06:47:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 232
+[04-May-2015 06:47:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 232
+[04-May-2015 07:00:19 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 223
+[04-May-2015 07:00:19 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 223
+[04-May-2015 07:06:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 223
+[04-May-2015 07:06:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 223
+[04-May-2015 07:07:15 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 223
+[04-May-2015 07:08:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 223
+[05-May-2015 05:42:16 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 160
+[05-May-2015 05:42:48 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 160
+[05-May-2015 05:43:27 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 160
+[05-May-2015 05:47:19 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 160
+[05-May-2015 06:04:13 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 160
+[05-May-2015 06:06:49 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 160
+[05-May-2015 06:10:31 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 160
+[05-May-2015 06:15:43 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 160
+[05-May-2015 06:16:53 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 160
+[05-May-2015 06:29:40 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 160
+[05-May-2015 06:49:08 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 160
+[05-May-2015 06:53:35 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 160
+[05-May-2015 06:55:27 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 160
+[05-May-2015 07:10:25 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 160
+[06-May-2015 01:41:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'error_log' (T_STRING) in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 240
+[06-May-2015 01:42:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'error_log' (T_STRING) in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 240
+[06-May-2015 01:43:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'error_log' (T_STRING) in /home2/zealousy/public_html/opensource/capacity/paypalipn.php on line 240
+[07-May-2015 12:28:51 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/28_IMG_1224.PNG) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[07-May-2015 12:28:52 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[07-May-2015 12:28:52 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/49_Koala.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[07-May-2015 12:28:52 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/31_user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[07-May-2015 12:28:53 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity//upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[07-May-2015 12:28:53 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/48_ngc.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[07-May-2015 12:28:54 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/30_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[07-May-2015 12:29:07 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/46_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[08-May-2015 08:58:41 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity//upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[08-May-2015 08:58:43 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[08-May-2015 08:58:43 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/28_IMG_1224.PNG) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[08-May-2015 08:58:43 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/30_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[08-May-2015 08:58:49 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity//upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[08-May-2015 08:58:49 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[08-May-2015 04:32:05 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/cron_user_expire.php on line 67
+[08-May-2015 04:39:11 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/cron_user_expire.php on line 67
+[08-May-2015 04:47:29 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/cron_user_expire.php on line 68
+[08-May-2015 04:55:55 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/cron_user_expire.php on line 67
+[08-May-2015 05:04:11 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/cron_user_expire.php on line 67
+[08-May-2015 05:05:36 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/cron_user_expire.php on line 67
+[08-May-2015 05:06:29 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/cron_user_expire.php on line 67
+[08-May-2015 05:06:37 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/cron_user_expire.php on line 67
+[08-May-2015 05:07:04 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/cron_user_expire.php on line 67
+[08-May-2015 05:07:06 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/cron_user_expire.php on line 67
+[13-May-2015 00:57:37 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/cron_user_expire.php on line 72
+[13-May-2015 00:58:20 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/cron_user_expire.php on line 72
+[13-May-2015 00:58:27 America/Chicago] PHP Fatal error:  Cannot access parent:: when no class scope is active in /home2/zealousy/public_html/opensource/capacity/cron_user_expire.php on line 72
+[13-May-2015 02:09:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/zealousy/public_html/opensource/capacity/task.php on line 1051
+[13-May-2015 09:53:01 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity//upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:01 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/30_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:01 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:01 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/28_IMG_1224.PNG) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:02 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/31_user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:04 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/48_ngc.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:04 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/49_Koala.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:04 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/46_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:04 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:05 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity//upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:05 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/28_IMG_1224.PNG) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:05 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/30_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:06 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/31_user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:33 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity//upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:34 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:34 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/28_IMG_1224.PNG) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:34 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/30_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:34 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/31_user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:35 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/46_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:36 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/49_Koala.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:53:36 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/48_ngc.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:55:45 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity//upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:55:46 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:55:46 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/28_IMG_1224.PNG) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:55:46 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/30_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:55:58 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/48_ngc.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:55:58 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/46_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:55:58 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/31_user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:55:58 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/49_Koala.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:57:56 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:57:56 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity//upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:57:56 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/28_IMG_1224.PNG) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:57:57 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/30_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:57:57 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/46_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:57:57 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/31_user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:57:58 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/49_Koala.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:57:58 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/48_ngc.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:59:36 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity//upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:59:37 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/2_100802_casual_computer-user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:59:37 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/28_IMG_1224.PNG) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:59:37 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/31_user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:59:37 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/30_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:59:37 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/46_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:59:47 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/48_ngc.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 09:59:47 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/49_Koala.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 10:03:44 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/28_IMG_1224.PNG) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 10:03:44 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/30_user.png) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 10:03:44 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/31_user.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[13-May-2015 10:03:56 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/home2/zealousy/public_html/opensource/capacity/timthumb.php/capacity/upload/user/49_Koala.jpg) is not within the allowed path(s): (/home:/home2:/usr/lib/php:/usr/local/lib/php:/usr/local/bin:/tmp) in /home2/zealousy/public_html/opensource/capacity/timthumb.php on line 896
+[14-May-2015 00:55:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$custom_id' (T_VARIABLE), expecting ',' or ';' in /home2/zealousy/public_html/opensource/capacity/userlist.php on line 189
+[14-May-2015 00:55:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$custom_id' (T_VARIABLE), expecting ',' or ';' in /home2/zealousy/public_html/opensource/capacity/userlist.php on line 189
+[14-May-2015 00:55:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$custom_id' (T_VARIABLE), expecting ',' or ';' in /home2/zealousy/public_html/opensource/capacity/userlist.php on line 189
+[14-May-2015 00:55:56 America/Chicago] PHP Parse error:  syntax error, unexpected '$custom_id' (T_VARIABLE), expecting ',' or ';' in /home2/zealousy/public_html/opensource/capacity/userlist.php on line 189
+[21-May-2015 04:02:48 America/Chicago] PHP Fatal error:  Class 'database' not found in /home2/zealousy/public_html/opensource/capacity/classes/loader.php on line 7
+[22-May-2015 04:57:59 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/zealousy/public_html/opensource/capacity/step2.php on line 49
+[22-May-2015 04:58:03 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/zealousy/public_html/opensource/capacity/step2.php on line 49
+[22-May-2015 04:58:07 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/zealousy/public_html/opensource/capacity/step2.php on line 49
+[22-May-2015 04:58:09 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/zealousy/public_html/opensource/capacity/step2.php on line 49
+[22-May-2015 04:58:21 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/zealousy/public_html/opensource/capacity/step2.php on line 49
+[29-May-2015 00:48:25 America/Chicago] PHP Parse error:  syntax error, unexpected '"user_avatar"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 77
+[29-May-2015 00:48:41 America/Chicago] PHP Parse error:  syntax error, unexpected '"user_avatar"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 77
+[29-May-2015 00:48:49 America/Chicago] PHP Parse error:  syntax error, unexpected '"user_avatar"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 77
+[29-May-2015 00:49:00 America/Chicago] PHP Parse error:  syntax error, unexpected '"user_avatar"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 77
+[29-May-2015 00:49:03 America/Chicago] PHP Parse error:  syntax error, unexpected '"user_avatar"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 77
+[29-May-2015 00:49:20 America/Chicago] PHP Parse error:  syntax error, unexpected '"user_avatar"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 77
+[29-May-2015 00:49:20 America/Chicago] PHP Parse error:  syntax error, unexpected '"user_avatar"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 77
+[29-May-2015 00:50:15 America/Chicago] PHP Parse error:  syntax error, unexpected '"user_avatar"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 77
+[29-May-2015 03:34:04 America/Chicago] PHP Parse error:  syntax error, unexpected '"user_avatar"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 77
+[29-May-2015 23:28:57 America/Chicago] PHP Parse error:  syntax error, unexpected '"user_avatar"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/zealousy/public_html/opensource/capacity/subscribe.php on line 77
+[02-Jun-2015 05:25:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/setting.php on line 634
+[02-Jun-2015 05:25:31 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/zealousy/public_html/opensource/capacity/setting.php on line 634
+[25-Jun-2015 03:47:40 America/Chicago] PHP Fatal error:  Class 'login' not found in /home2/zealousy/public_html/opensource/capacity/classes/loader.php on line 33
+[25-Jun-2015 03:58:18 America/Chicago] PHP Fatal error:  Class 'general' not found in /home2/zealousy/public_html/opensource/capacity/classes/loader.php on line 23
+[25-Jun-2015 04:42:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'checkCompanyuserlenth' (T_STRING), expecting '(' in /home2/zealousy/public_html/opensource/capacity/userlist.php on line 17
+[25-Jun-2015 04:42:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'checkCompanyuserlenth' (T_STRING), expecting '(' in /home2/zealousy/public_html/opensource/capacity/userlist.php on line 17
+[25-Jun-2015 04:42:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'checkCompanyuserlenth' (T_STRING), expecting '(' in /home2/zealousy/public_html/opensource/capacity/userlist.php on line 17
+[25-Jun-2015 04:58:55 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/zealousy/public_html/opensource/capacity/task.php on line 1048
+[01-Jul-2015 23:58:48 America/Chicago] PHP Fatal error:  Class 'login' not found in /home2/zealousy/public_html/opensource/capacity/classes/loader.php on line 33
+[13-Jul-2015 00:03:12 America/Chicago] PHP Fatal error:  Class 'general' not found in /home2/zealousy/public_html/opensource/capacity/classes/loader.php on line 23
+[21-Jul-2015 09:15:13 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/zealousy/public_html/opensource/capacity/userlist.php on line 369
+[28-Jul-2015 01:19:06 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/zealousy/public_html/opensource/capacity/task.php on line 722
+[28-Jul-2015 01:29:11 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/zealousy/public_html/opensource/capacity/task.php on line 1433
+[07-Aug-2015 06:35:57 America/Chicago] PHP Fatal error:  Class 'general' not found in /home2/zealousy/public_html/opensource/capacity/classes/loader.php on line 23
+[07-Aug-2015 06:36:10 America/Chicago] PHP Fatal error:  Class 'general' not found in /home2/zealousy/public_html/opensource/capacity/classes/loader.php on line 23
+[07-Aug-2015 06:36:14 America/Chicago] PHP Fatal error:  Class 'general' not found in /home2/zealousy/public_html/opensource/capacity/classes/loader.php on line 23
+[11-Feb-2016 10:16:26 America/New_York] PHP Fatal error:  Class 'loader' not found in /home/capacity/public_html/config/configuration.php on line 40
+[07-Mar-2016 04:39:58 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/capacity/public_html/setting.php on line 331
+[21-Mar-2016 02:20:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16096 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[21-Mar-2016 02:21:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16096 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[27-Jun-2016 06:34:46 America/New_York] PHP Fatal error:  Class 'loader' not found in /home/capacity/public_html/config/configuration.php on line 40
+[27-Jun-2016 06:34:46 America/New_York] PHP Fatal error:  Class 'loader' not found in /home/capacity/public_html/config/configuration.php on line 40
+[16-Jul-2016 00:56:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16096 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[16-Jul-2016 00:56:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16096 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 09:51:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 09:51:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:02:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:02:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:03:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:03:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:03:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:03:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:03:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:03:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:03:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:04:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:04:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:05:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:05:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:05:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:06:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:06:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:06:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[28-Jul-2016 10:06:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[01-Aug-2016 04:39:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[01-Aug-2016 04:40:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[04-Aug-2016 09:08:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16096 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[04-Aug-2016 09:09:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[04-Aug-2016 09:31:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3500 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[04-Aug-2016 11:22:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[04-Aug-2016 11:22:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[04-Aug-2016 11:23:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[04-Aug-2016 11:23:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[04-Aug-2016 11:24:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[04-Aug-2016 11:24:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[04-Aug-2016 11:24:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[04-Aug-2016 11:24:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[04-Aug-2016 12:22:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[05-Aug-2016 11:28:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[05-Aug-2016 11:28:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[05-Aug-2016 11:29:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[05-Aug-2016 11:30:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[05-Aug-2016 11:30:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[05-Aug-2016 11:30:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[05-Aug-2016 11:31:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[05-Aug-2016 11:31:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[05-Aug-2016 11:31:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[05-Aug-2016 11:31:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[05-Aug-2016 11:32:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[05-Aug-2016 11:33:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[06-Aug-2016 06:59:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[06-Aug-2016 06:59:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[06-Aug-2016 07:00:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[08-Aug-2016 05:31:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16096 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[08-Aug-2016 05:35:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16096 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[16-Aug-2016 06:21:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[16-Aug-2016 06:21:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14570550 bytes) in /home/capacity/public_html/timthumb.php on line 1089
+[16-Aug-2016 09:33:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16096 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[21-Aug-2016 08:43:59 America/New_York] PHP Fatal error:  Class 'loader' not found in /home/capacity/public_html/config/configuration.php on line 40
+[09-Sep-2016 09:43:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16096 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[09-Sep-2016 09:49:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16096 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[09-Sep-2016 09:49:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16096 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[19-Sep-2016 05:44:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16096 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:04:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:04:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:07:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:07:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:07:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:07:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:11:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:11:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:28:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:28:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:43:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:43:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:46:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:46:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:58:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 06:58:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 07:24:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 07:24:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:16:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:16:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:17:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:17:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:17:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:17:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:22:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:22:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:22:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:24:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:35:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:35:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:39:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:39:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:39:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 08:39:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:12:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:15:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:16:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:16:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:16:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:19:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:36:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:40:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:40:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:40:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:40:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:40:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:40:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:51:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:51:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:52:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[24-Sep-2016 09:52:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10308 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[27-Sep-2016 10:33:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[27-Sep-2016 10:33:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[27-Sep-2016 10:33:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[27-Sep-2016 10:33:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[27-Sep-2016 10:34:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[27-Sep-2016 10:34:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[27-Sep-2016 10:34:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085
+[27-Sep-2016 10:34:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11132 bytes) in /home/capacity/public_html/timthumb.php on line 1085

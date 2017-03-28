@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (min-width: 1024px) and (max-width: 1025px){
+.nav-main li a {padding:0 20px !important;}
+}
+@media only screen and (min-width: 890px) and (max-width: 1024px){
+		.user-prof-nav label, .user-prof-nav span {display:block !important;}
+		.header-box {width:100% !important; padding:0 20px 0 0 !important; }
+		.tab-user {display:none !important;}
+.desk-user {display:inline-block !important;}
+
+	}
+@media only screen and (min-width: 768px) and (max-width: 1023px){
+
+.header-box {width:750px; padding:0px;}
+.nav-main li a {padding:0 8px; font-size:14px;}
+.traffic-logo {width:120px;}
+.user-prof-nav {margin-left:0px; float:right;}
+.top-tab-main {padding:0 0 0 120px;}
+
+.top-tab-sub {width:100%;}
+.td-first {width:170px;}
+.td-first .full-box {padding:10px 10px 0;}
+.td-second { padding: 10px 10px 0; width: 238px;}
+.td-third {padding: 10px 0 15px 10px;width: 170px;}
+.client-detail .button-box {float:left; width:100%; margin:0 0 15px 0; padding:0 0 0 183px;}
+
+.tab-user {display:inline-block;}
+.desk-user {display:none;}
+
+#external-events .fc-event, .ui-widget .fc-event {cursor: pointer;
+    height: 79px;
+    max-height: 78px;
+    width: 100% !important;
+}
+
+}
+
+@media only screen and (max-width: 767px){
+	#wap, section#setting-main {width: 1040px;}
+
+
+
+}

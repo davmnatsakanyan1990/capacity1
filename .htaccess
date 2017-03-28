@@ -1,0 +1,75 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteCond $1 !^(index\.php|public|hme|img|editor|tsd|wd|images|edi|js|fonts|assets|robots\.txt|css|blog)
+#RewriteRule ^(.*)$ index.php/$1 [L]
+RewriteRule ^home$ index.php/$1 [L]
+
+ErrorDocument 404 http://opensource.zealousys.com/capacity/404
+RewriteRule ^404$ 404.php/$1 [L]
+
+RewriteRule ^home/([^/.]+)$ index.php?msg=$1 
+
+RewriteRule ^features$ features.php/$1 [L]
+
+RewriteRule ^faq$ faq.php/$1 [L]
+
+RewriteRule ^pricing$ pricing.php/$1 [L]
+
+RewriteRule ^contact-us$ contact.php/$1 [L]
+
+RewriteRule ^subscriptions$ subscription.php/$1 [L]
+
+RewriteRule ^login$ login.php/$1 [L]
+
+RewriteRule ^logout$ logout.php/$1 [L]
+
+RewriteRule ^userlist$ userlist.php/$1 [L]
+
+RewriteRule ^testimonial$ testimonial.php/$1 [L]
+
+RewriteRule ^setting$ setting.php/$1 [L]
+
+RewriteRule ^plan$ plan.php/$1 [L]
+
+RewriteRule ^view$ task.php/$1 [L]
+
+#RewriteRule ^view/([^/.]+)$ task.php?tm_id=$1
+#RewriteRule ^view/([^/.]+)$ task.php?pr_id=$1
+#RewriteRule ^view/([^/.]+)$ task.php?cl_id=$1
+
+RewriteRule ^view/([^/.]+)/([^/.]+)/([^/.]+)$ task.php?pr_id=$1&cl_id=$2&tm_id=$3
+RewriteRule ^view/([A-Za-z0-9-]+)$ task.php?t_id=$1
+
+
+RewriteRule ^stepfirst$ step1.php/$1 [L]
+
+RewriteRule ^stepsecond$ step2.php/$1 [L]
+
+RewriteRule ^stepsecond/([A-Za-z0-9-]+)$ step2.php?uid=$1
+
+RewriteRule ^stepthird$ step3.php/$1 [L]
+
+RewriteRule ^changePassword$ changePassword.php/$1 [L]
+
+RewriteRule ^changePassword/([^/.]+)$ changePassword.php?msg=$1 [L]
+
+RewriteRule ^subscribes/([^/.]+)$ subscribe.php?sub_id=$1
+RewriteRule ^subscribes/([^/.]+)/([A-Za-z0-9-]+)$ subscribe.php?sub_id=$1&script=$2
+RewriteRule ^subscribes/([^/.]+)/([A-Za-z0-9-]+)/([A-Za-z0-9-]+)$ subscribe.php?sub_id=$1&script=$2&uid=$3
+
+
+
+RewriteRule ^subscriptions/([^/.]+)$ subscription.php?uid=$1 [L]
+RewriteRule ^extract/([^/.]+)$ pdf_generate.php?pid=$1 [L]
+
+RewriteRule ^upgrades/([^/.]+)/([A-Za-z0-9-]+)$ upgrade.php?sub_id=$1&script=$2
+RewriteRule ^thanks$ thankyou.php/$1 [L]
+
+
+RewriteRule ^page/([^/.]+)$ pages.php?page_id=$1
+
+</IfModule>
